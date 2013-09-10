@@ -1,0 +1,6 @@
+This test application is to get CPU and memory read/write performance.
+
+- Calculate ackermann function to put a load on CPU.
+- To be executed memory write, write result of ackermann function to allocated memory.
+- To be executed memory read, read value from allocated memory, get residue of each value and
+  and get summation of all value.
